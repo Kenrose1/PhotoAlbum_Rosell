@@ -39,6 +39,31 @@ The photo collection is divided into the following different categories:
 ---
 
 ## 📸 Screenshot
-![image alt](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/6dc5cf2250d4f1e268eb709e7a48a81b12097b41/public/image/photoalbum_outputss/myphoto_output1.png)
-
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/6dc5cf2250d4f1e268eb709e7a48a81b12097b41/public/image/photoalbum_outputss/myphoto_output1.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/5037b372affb7713a8dab6433cbff7f68bea6b95/public/image/photoalbum_outputss/myphoto_output2.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output3.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output4.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output5.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output6.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output7.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output8.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output9.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output10.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output11.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output12.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output13.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output14.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output15.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output16.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output17.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output18.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output19.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output20.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output21.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output22.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output23.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output24.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output25.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output26.png)
+![Screenshot](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/master/public/image/photoalbum_outputss/myphoto_output27.png)
    
