@@ -39,6 +39,6 @@ The photo collection is divided into the following different categories:
 ---
 
 ## 📸 Screenshot
-
+![image alt](https://github.com/Kenrose1/PhotoAlbum_Rosell/blob/6dc5cf2250d4f1e268eb709e7a48a81b12097b41/public/image/photoalbum_outputss/myphoto_output1.png)
 
    
